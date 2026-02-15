@@ -11,3 +11,7 @@ cleaned_Csv/
 # Keep the report folder, but ignore any text files inside if they get too big
 # report/*.txt 
 .DS_Store
+
+__pycache__/
+*.pyc
+.DS_Store

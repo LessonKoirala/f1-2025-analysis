@@ -8,6 +8,8 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 # Import individual driver functions
 from analyse_player.analyse_HAM import show_hamilton_analysis
 from analyse_player.analyse_lec import show_leclerc_analysis
+from analyse_player.analyse_Ver import show_verstappen_analysis
+
 # Import the comparison logic
 from compare_player import show_comparison_analysis
 
@@ -35,7 +37,7 @@ def main():
     # Navigation selection
     page = st.sidebar.radio(
         "Select Mode:",
-        ["Home", "Lewis Hamilton", "Charles Leclerc", "Compare Drivers"]
+        ["Home", "Max Verstappen", "Lewis Hamilton", "Charles Leclerc", "Compare Drivers"]
     )
 
     st.sidebar.markdown("---")
@@ -47,10 +49,14 @@ def main():
         st.write("### Welcome to the 2025 Analytics Suite")
         st.markdown("""
             Use the sidebar to navigate between specific driver telemetry or the comparison engine.
+            * **Verstappen Analysis:** Red Bull RB21 Telemetry.
             * **Hamilton Analysis:** Mercedes W16 Telemetry.
             * **Leclerc Analysis:** Ferrari SF-25 Telemetry.
             * **Compare Drivers:** Head-to-head overlay of any two drivers.
         """)
+    
+    elif page == "Max Verstappen":
+        show_verstappen_analysis()
         
     elif page == "Lewis Hamilton":
         show_hamilton_analysis()
