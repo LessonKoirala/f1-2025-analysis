@@ -1,0 +1,342 @@
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_1.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_10.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_11.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_12.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_13.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_14.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_15.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_16.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_17.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_18.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_19.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_2.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_20.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_21.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_22.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_23.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_24.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_25.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_26.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_27.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_28.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_29.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_3.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_30.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_31.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_32.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_33.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_34.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_35.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_36.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_37.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_38.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_39.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_4.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_40.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_41.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_42.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_43.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_44.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_45.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_46.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_47.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_48.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_49.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_5.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_50.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_51.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_52.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_53.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_54.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_55.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_56.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_57.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_6.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_7.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_8.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
+
+================================================================================
+Inspecting: F1_Data/Australia2025/LEC/lap_9.csv
+================================================================================
+
+Columns: ['Date', 'SessionTime', 'Time', 'Speed', 'RPM', 'nGear', 'Throttle', 'Brake', 'DRS', 'X', 'Y', 'Z', 'Distance', 'RelativeDistance', 'DriverAhead', 'DistanceToDriverAhead']
