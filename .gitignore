@@ -1,0 +1,13 @@
+# Ignore the FastF1 cache
+fastf1cache/
+
+# Ignore all CSV files anywhere in the project
+*.csv
+
+# Ignore your specific data folders
+F1_Data/
+cleaned_Csv/
+
+# Keep the report folder, but ignore any text files inside if they get too big
+# report/*.txt 
+.DS_Store
