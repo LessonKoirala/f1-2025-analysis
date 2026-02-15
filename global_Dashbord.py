@@ -50,7 +50,7 @@ def main():
         st.markdown("""
             Use the sidebar to navigate between specific driver telemetry or the comparison engine.
             * **Verstappen Analysis:** Red Bull RB21 Telemetry.
-            * **Hamilton Analysis:** Mercedes W16 Telemetry.
+            * **Hamilton Analysis:** Ferrari SF-25 Telemetry.
             * **Leclerc Analysis:** Ferrari SF-25 Telemetry.
             * **Compare Drivers:** Head-to-head overlay of any two drivers.
         """)
