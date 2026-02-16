@@ -1,14 +1,10 @@
 import streamlit as st
 import sys
 import os
+import importlib
 
-# Add the current directory to path so it can find the subfolders
+# Add the current directory to path so it can find subfolders
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-
-# Import individual driver functions
-from analyse_player.analyse_HAM import show_hamilton_analysis
-from analyse_player.analyse_lec import show_leclerc_analysis
-from analyse_player.analyse_Ver import show_verstappen_analysis
 
 # Import the comparison logic
 from compare_player import show_comparison_analysis
@@ -26,65 +22,66 @@ def get_available_drivers():
     if not os.path.exists(path):
         return []
     files = [f for f in os.listdir(path) if f.endswith('.csv')]
-    # Extracts 'HAM' from 'Australia2025_HAM_cleaned_sorted.csv'
+    # Extracts 'HAM', 'VER', 'TSU', etc. from filenames
     drivers = sorted(list(set([f.split('_')[1] for f in files])))
     return drivers
+
+def load_driver_analysis(driver_code):
+    """
+    Dynamically imports the analysis module for a driver and returns the show function.
+    Assumes the function is named: show_<drivername>_analysis
+    """
+    module_name = f"analyse_player.{driver_code.lower()}_analysis"
+    try:
+        mod = importlib.import_module(module_name)
+        func_name = f"show_{driver_code.lower()}_analysis"
+        return getattr(mod, func_name)
+    except (ModuleNotFoundError, AttributeError) as e:
+        st.error(f"Analysis module/function not found for {driver_code}: {e}")
+        return None
 
 def main():
     # --- SIDEBAR NAVIGATION ---
     st.sidebar.title("🏎️ F1 Telemetry Hub")
     
-    # Navigation selection
-    page = st.sidebar.radio(
-        "Select Mode:",
-        ["Home", "Max Verstappen", "Lewis Hamilton", "Charles Leclerc", "Compare Drivers"]
-    )
-
+    # Fetch all available drivers
+    drivers = get_available_drivers()
+    page_options = ["Home", "Compare Drivers"] + drivers
+    
+    page = st.sidebar.radio("Select Mode:", page_options)
     st.sidebar.markdown("---")
     st.sidebar.info("Data Source: Australia 2025 GP")
-
-    # --- ROUTING LOGIC ---
+    
     if page == "Home":
         st.title("F1 Performance Dashboard")
         st.write("### Welcome to the 2025 Analytics Suite")
         st.markdown("""
             Use the sidebar to navigate between specific driver telemetry or the comparison engine.
-            * **Verstappen Analysis:** Red Bull RB21 Telemetry.
-            * **Hamilton Analysis:** Ferrari SF-25 Telemetry.
-            * **Leclerc Analysis:** Ferrari SF-25 Telemetry.
-            * **Compare Drivers:** Head-to-head overlay of any two drivers.
+            * Select any driver to view their telemetry analysis.
+            * Use 'Compare Drivers' to overlay performance of two drivers head-to-head.
         """)
     
-    elif page == "Max Verstappen":
-        show_verstappen_analysis()
-        
-    elif page == "Lewis Hamilton":
-        show_hamilton_analysis()
-        
-    elif page == "Charles Leclerc":
-        show_leclerc_analysis()
-
     elif page == "Compare Drivers":
         st.title("⚔️ Driver Comparison Engine")
-        
-        drivers = get_available_drivers()
-        
         if len(drivers) < 2:
             st.warning("Not enough driver data found in cleaned_Csv to perform a comparison.")
         else:
-            # Layout for driver selection
             col1, col2 = st.columns(2)
             with col1:
                 d1 = st.selectbox("Select Driver 1", drivers, index=0)
             with col2:
-                # Set default index to 1 if available
                 d2 = st.selectbox("Select Driver 2", drivers, index=1 if len(drivers) > 1 else 0)
             
             if d1 == d2:
                 st.info("Select two different drivers to see the delta.")
             else:
-                # Call the global comparison function
                 show_comparison_analysis(d1, d2)
+    
+    else:
+        # It's a driver page
+        func = load_driver_analysis(page)
+        if func:
+            func()  # Call the driver analysis function
 
 if __name__ == "__main__":
     main()
